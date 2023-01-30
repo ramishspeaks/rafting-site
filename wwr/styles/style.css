@@ -1,0 +1,62 @@
+#content {
+    margin: 0 auto;
+}
+
+#background {
+    height: 725px;
+}
+   
+body {
+    background-color: #fcfbfb;
+}
+header {
+    background-color:rgba(20,30,13, .7);
+
+}
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+
+}
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+  
+footer p {
+    font-size: 1.2em;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
+  
+.icon {
+    width: 80px;
+}
+
+.social {
+    background-color:rgba(20,30,13, .7);
+    text-align: left;
+}
+#logo {
+    text-align: left;
+}
+
+#hero {
+    text-align: center;
+}
+
+.home-grid {
+    text-align: center;
+}
+
+.msg {
+    background-color:rgba(20,30,13, .7);
+}
+
+#footerp {
+    background-color:rgba(20,30,13, .7);
+}
